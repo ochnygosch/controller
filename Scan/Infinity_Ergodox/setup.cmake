@@ -22,7 +22,7 @@ set ( MatrixARM_Path ${CMAKE_CURRENT_LIST_DIR} )
 ###
 # Required Sub-modules
 #
-AddModule ( Scan Devices/ISSILed )
+#AddModule ( Scan Devices/ISSILed )
 AddModule ( Scan Devices/MatrixARMPeriodic )
 AddModule ( Scan Devices/STLcd )
 AddModule ( Scan Devices/UARTConnect )
@@ -42,4 +42,3 @@ set ( Module_SRCS
 set ( ModuleCompatibility
 	arm
 )
-

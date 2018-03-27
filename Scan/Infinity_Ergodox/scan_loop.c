@@ -28,13 +28,13 @@
 #include <cli.h>
 #include <connect_scan.h>
 #include <lcd_scan.h>
-#include <led.h>
-#include <led_scan.h>
+//#include <led.h>
+//#include <led_scan.h>
 #include <print.h>
 #include <matrix_scan.h>
 #include <macro.h>
 #include <output_com.h>
-#include <pixel.h>
+//#include <pixel.h>
 
 // Local Includes
 #include "scan_loop.h"
@@ -55,13 +55,13 @@ inline void Scan_setup()
 	Matrix_setup();
 
 	// Setup ISSI chip to control the leds
-	LED_setup();
+	//LED_setup();
 
 	// Setup the ST/NHD lcd display
 	LCD_setup();
 
 	// Setup Pixel Map
-	Pixel_setup();
+	//Pixel_setup();
 
 	// Start Matrix Scanner
 	Matrix_start();
@@ -74,10 +74,10 @@ inline void Scan_setup()
 void Scan_poll()
 {
 	// Prepare any LED events
-	Pixel_process();
+	//Pixel_process();
 
 	// Process any LED events
-	LED_scan();
+	//LED_scan();
 
 	// Process any LCD events
 	LCD_scan();
@@ -116,7 +116,6 @@ void Scan_currentChange( unsigned int current )
 	// Indicate to all submodules current change
 	Connect_currentChange( current );
 	Matrix_currentChange( current );
-	LED_currentChange( current );
+	//LED_currentChange( current );
 	LCD_currentChange( current );
 }
-
