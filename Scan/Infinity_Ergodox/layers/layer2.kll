@@ -1,0 +1,12 @@
+Name = ICED Jetbrains layer;
+Version = 0.1;
+Author = "Jens Köcke";
+KLL = 0.3c;
+
+Data = 2017-06-19;
+
+U"F" : U"F7";
+U"G" : U"LAlt" + U"F9";
+U"R" : U"F9";
+U"Q" : U"LALT" + U"F2";
+U"Tab" : U"F8";

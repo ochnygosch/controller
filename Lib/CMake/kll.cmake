@@ -281,4 +281,3 @@ set ( SRCS ${SRCS} ${kll_outputname} )
 else ()
 message ( AUTHOR_WARNING "Unknown Macro module, ignoring kll generation" )
 endif () # PartialMap
-

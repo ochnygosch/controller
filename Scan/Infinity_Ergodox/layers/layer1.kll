@@ -1,0 +1,45 @@
+Name = ICED Function and Numpad Layer;
+Version = 0.1;
+Author = "Jens Köcke";
+KLL = 0.3c;
+
+# Modified Date
+Date = 2018-04-09;
+
+# Top Row - Left
+U"1"   : U"F1";
+U"2"   : U"F2";
+U"3"   : U"F3";
+U"4"   : U"F4";
+U"5"   : U"F5";
+
+
+# Top Row - Right
+U"6"         : U"F8";
+U"7"         : U"F9";
+U"8"         : U"F10";
+U"9"         : U"F11";
+U"0"         : U"F12";
+
+U"Q": U"Home";
+U"A": U"End";
+U"E": U"Up";
+U"T": U"PageUp";
+U"S": U"Left";
+U"D": U"Down";
+U"F": U"Right";
+U"G": U"PageDown";
+
+
+U"U": U"P7";
+U"I": U"P8";
+U"O": U"P9";
+U"J": U"P4";
+U"K": U"P5";
+U"L": U"P6";
+U"M": U"P1";
+U"Comma": U"P2";
+U"Period": U"P3";
+U"Quote": U"P0";
+
+U"Enter": U"PEnter";

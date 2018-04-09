@@ -31,8 +31,8 @@ DefaultMap="infinity_ergodox/mdergo1Overlay infinity_ergodox/lcdFuncMap"
 # e.g.  PartialMaps[1]="layer1 layer1mod"
 #       PartialMaps[2]="layer2"
 #       PartialMaps[3]="layer3"
-PartialMaps[1]="infinity_ergodox/iced_func"
-PartialMaps[2]="infinity_ergodox/iced_numpad"
+PartialMaps[1]="layers/layer1"
+PartialMaps[2]="layers/layer2"
 
 
 
