@@ -10,22 +10,22 @@ Date = 2017-11-15;
 
 
 # Top Row
-S3 : U"Function6";
+S3 : U"F7";
 S4 : U"6";
 S5 : U"7";
 S6 : U"8";
 S7 : U"9";
 S8 : U"0";
-S9 : U"Minus";
+S9 : None;ß
 
 # Top-Middle Row
-S12 : U"Left Brace";
+S12 : U"Prev Layer";
 S13 : U"Y";
 S14 : U"U";
 S15 : U"I";
 S16 : U"O";
 S17 : U"P";
-S18 : U"Right Brace";
+S18 : None;
 
 # Middle Row
 S22 : U"H";
@@ -33,14 +33,14 @@ S23 : U"J";
 S24 : U"K";
 S25 : U"L";
 S26 : U"Semicolon";
-S27 : U"Quote";
+S27 : U"Backslash";
 
 # Top Thumb Cluster
-S28 : U"RAlt";
-S29 : U"RCtrl";
+S28 : None;
+S29 : U"Insert";
 
 # Bottom-Middle Row
-S30 : U"Function7";
+S30 : U"RAlt";
 S31 : U"N";
 S32 : U"M";
 S33 : U"Comma";
@@ -49,17 +49,17 @@ S35 : U"Slash";
 S36 : U"Right Shift";
 
 # Bottom Thumb Cluster
-S37 : U"PageUp";
-S38 : U"PageDown";
+S37 : U"Space";
+S38 : U"RGui";
 S39 : U"Enter";
 S40 : U"Space";
 
 # Bottom Row
-S41 : U"Left";
-S42 : U"Down";
-S43 : U"Up";
-S44 : U"Right";
-S45 : U"RGui";
+S41 : U"Quote";
+S42 : U"=";
+S43 : U"]";
+S44 : U"LAlt";
+S45 : U"RCtrl";
 
 
 
@@ -152,4 +152,3 @@ S[39] <= x:126.4;
 S[28] <= x:154.95;
 S[37] <= x:147;
 S[38] <= x:139.8;
-
