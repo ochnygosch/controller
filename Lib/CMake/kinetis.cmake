@@ -95,7 +95,7 @@ elseif ( "${CHIP}" MATCHES "mk20dx128" )
 elseif ( "${CHIP}" MATCHES "mk20dx256" )
 	set( SIZE_RAM    65536 )
 	set( SIZE_FLASH 262144 )
-	set( F_CPU "48000000" ) # XXX Also supports 72 MHz, but may requires code changes
+	set( F_CPU "72000000" ) # XXX Also supports 72 MHz, but may requires code changes
 	set( CHIP_SHORT "mk20dx256" )
 	set( TEENSY 1 )
 
@@ -140,4 +140,3 @@ endif ()
 #|
 #| "cortex-m4"        # Teensy   3.0, 3.1, McHCK
 set( CPU "cortex-m4" )
-
