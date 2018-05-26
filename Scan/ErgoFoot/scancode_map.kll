@@ -1,0 +1,81 @@
+# Infinity 60%
+
+Name = "Infinity 60%";
+Version = 0.5;
+Author = "HaaTa (Jacob Alexander) 2014-2017";
+KLL = 0.5;
+
+# Modified Date
+Date = 2017-11-17;
+
+
+# N/A - Nothing needed in this file (for now)
+S1 : U"A";
+S2 : U"B";
+S3 : U"C";
+S4 : U"D";
+S5 : U"E";
+S6 : U"F";
+S7 : U"G";
+S8 : U"H";
+S9 : U"I";
+S10 : U"J";
+S11 : U"K";
+S12 : U"L";
+S13 : U"M";
+S14 : U"N";
+S15 : U"O";
+
+ConnectId = 1;
+
+# Top Row
+S3 : U"Esc";
+S4 : U"5";
+S5 : U"4";
+S6 : U"3";
+S7 : U"2";
+S8 : U"1";
+S9 : U"Equals";
+
+# Top-Middle Row
+S12 : U"Function1";
+S13 : U"T";
+S14 : U"R";
+S15 : U"E";
+S16 : U"W";
+S17 : U"Q";
+S18 : U"Backslash";
+
+# Middle Row
+S22 : U"G";
+S23 : U"F";
+S24 : U"D";
+S25 : U"S";
+S26 : U"A";
+S27 : U"Tab";
+
+# Top Thumb Cluster
+S28 : U"LAlt";
+S29 : U"LCtrl";
+
+# Bottom-Middle Row
+S30 : U"Function2";
+S31 : U"B";
+S32 : U"V";
+S33 : U"C";
+S34 : U"X";
+S35 : U"Z";
+S36 : U"Left Shift";
+
+# Bottom Thumb Cluster
+S37 : U"Home";
+S38 : U"End";
+S39 : U"Delete";
+S40 : U"Backspace";
+
+# Bottom Row
+S41 : U"Function5";
+S42 : U"Function4";
+S43 : U"Function3";
+S44 : U"Backtick";
+S45 : U"LGui";
