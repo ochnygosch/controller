@@ -19,7 +19,7 @@ BuildPath="ICED-L"
 ## KLL Configuration ##
 
 # Generally shouldn't be changed, this will affect every layer
-BaseMap="scancode_map leftHand slave1 rightHand"
+BaseMap="scancode_map leftHand slave1 rightHand slave2 foot"
 
 # This is the default layer of the keyboard
 # NOTE: To combine kll files into a single layout, separate them by spaces

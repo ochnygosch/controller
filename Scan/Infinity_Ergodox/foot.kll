@@ -1,0 +1,24 @@
+# Infinity 60%
+
+Name = "Infinity 60%";
+Version = 0.5;
+Author = "HaaTa (Jacob Alexander) 2014-2017";
+KLL = 0.5;
+
+# Modified Date
+Date = 2017-11-17;
+
+
+# N/A - Nothing needed in this file (for now)
+S1 : U"Backslash";
+S2 : U"RAlt";
+S3 : U"RGui";
+S4 : U"CapsLock";
+S5 : U"ISO/";
+S6 : U"RGui";
+S7 : U"G";
+S8 : U"H";
+S9 : U"I";
+S10 : flashMode();
+S11 : U"K";
+S12 : U"L";
